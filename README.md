@@ -1,8 +1,3 @@
-## Olá 👋
-
-- 🔭 Atualmente trabalho com Delphi/NodeJS.
-- 🌱 Eu estou aprendendo TypeScrypt e React.
-
 ## Skills
 ![Delphi](https://img.shields.io/badge/Delphi_RAD_Studio-B22222?style=for-the-badge&logo=delphi&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
